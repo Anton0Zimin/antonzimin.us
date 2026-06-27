@@ -13,4 +13,6 @@ I develop cloud and on-premise solutions powered by .NET technologies (ASP.NET, 
 
 ## Contact Me
 
+{% octicon mark-github height:16 %} [Anton0Zimin](https://github.com/Anton0Zimin)
+
 {% include linkedin.html %}
